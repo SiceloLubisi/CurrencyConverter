@@ -29,6 +29,7 @@ namespace CurrencyConverter
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.lblEnterAount = new System.Windows.Forms.Label();
             this.lblConvertFrom = new System.Windows.Forms.Label();
             this.lblConvertTo = new System.Windows.Forms.Label();
@@ -37,6 +38,8 @@ namespace CurrencyConverter
             this.cmbTo = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
             this.lblConvertedAmount = new System.Windows.Forms.Label();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // lblEnterAount
@@ -118,11 +121,15 @@ namespace CurrencyConverter
             this.lblConvertedAmount.TabIndex = 7;
             this.lblConvertedAmount.Text = "Converted Amount:";
             // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
             // frmCurrencyConverter
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(507, 368);
+            this.ClientSize = new System.Drawing.Size(501, 327);
             this.Controls.Add(this.lblConvertedAmount);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.cmbTo);
@@ -133,6 +140,7 @@ namespace CurrencyConverter
             this.Controls.Add(this.lblEnterAount);
             this.Name = "frmCurrencyConverter";
             this.Text = "Currency Converter";
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -148,6 +156,7 @@ namespace CurrencyConverter
         private System.Windows.Forms.ComboBox cmbTo;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label lblConvertedAmount;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
     }
 }
 

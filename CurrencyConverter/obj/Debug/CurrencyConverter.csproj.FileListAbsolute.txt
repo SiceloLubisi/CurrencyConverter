@@ -8,3 +8,13 @@ C:\Users\sicel\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\Curren
 C:\Users\sicel\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
 C:\Users\sicel\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
 C:\Users\sicel\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\sicel\Desktop\Practice\GitHub Work\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\sicel\Desktop\Practice\GitHub Work\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\sicel\Desktop\Practice\GitHub Work\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\sicel\Desktop\Practice\GitHub Work\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\sicel\Desktop\Practice\GitHub Work\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.frmCurrencyConverter.resources
+C:\Users\sicel\Desktop\Practice\GitHub Work\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\sicel\Desktop\Practice\GitHub Work\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\sicel\Desktop\Practice\GitHub Work\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\sicel\Desktop\Practice\GitHub Work\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\sicel\Desktop\Practice\GitHub Work\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
